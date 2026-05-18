@@ -101,3 +101,4 @@ Rodar semanalmente custa centavos. Se quiser baratear ainda mais, troque `CLAUDE
 - [ ] Definir SLA de validação (ex.: revisor humano avalia até 48h depois)
 - [ ] Logar histórico de edições aplicadas (planilha separada) pra evitar duplicidade
 - [ ] Considerar publicar via `{{Edit request}}` em vez de edição direta nos primeiros meses
+- [ ]  
