@@ -1330,7 +1330,24 @@
   };
 
   loadStatuses();
-  loadData([]);
+
+  // Auto-carrega oportunidades.json se existir
+  (async function autoLoad() {
+    try {
+      const res = await fetch('oportunidades.json?t=' + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data) && data.length > 0) {
+          loadData(data);
+          toast(`✓ ${data.length} oportunidades carregadas`);
+          return;
+        }
+      }
+    } catch (e) {
+      console.log('Sem oportunidades.json — exibindo tela inicial');
+    }
+    loadData([]);
+  })();
 </script>
 </body>
 </html>
