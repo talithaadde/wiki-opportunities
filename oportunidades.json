@@ -1,0 +1,576 @@
+[
+  {
+    "idioma": "pt",
+    "titulo": "PagBrasil",
+    "url": "https://pt.wikipedia.org/wiki/PagBrasil",
+    "fonte_descoberta": "busca:plataforma de e-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify, VTEX, WooCommerce, PrestaShop",
+    "score": 8,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Citar web|url=<URL DA FONTE EXTERNA>|título=<TÍTULO DA MATÉRIA>|publicação=<NOME DO VEÍCULO>|data=<YYYY-MM-DD>|acessadoem=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "es",
+    "titulo": "PrestaShop",
+    "url": "https://es.wikipedia.org/wiki/PrestaShop",
+    "fonte_descoberta": "busca:tiendas online SaaS",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify, WooCommerce, Magento, PrestaShop",
+    "score": 8,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Timeline of e-commerce",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_e-commerce",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify, Magento, BigCommerce",
+    "score": 7,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "es",
+    "titulo": "3dcart",
+    "url": "https://es.wikipedia.org/wiki/3dcart",
+    "fonte_descoberta": "categoria:Comercio_electrónico",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify, WooCommerce",
+    "score": 5,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "pt",
+    "titulo": "Alfredo Soares",
+    "url": "https://pt.wikipedia.org/wiki/Alfredo_Soares",
+    "fonte_descoberta": "busca:plataforma de e-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "VTEX, Loja Integrada",
+    "score": 4,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Citar web|url=<URL DA FONTE EXTERNA>|título=<TÍTULO DA MATÉRIA>|publicação=<NOME DO VEÍCULO>|data=<YYYY-MM-DD>|acessadoem=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "es",
+    "titulo": "Mercado Libre",
+    "url": "https://es.wikipedia.org/wiki/Mercado_Libre",
+    "fonte_descoberta": "busca:ecommerce Argentina",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "WooCommerce, Mercado Shops",
+    "score": 4,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "es",
+    "titulo": "BigBuy",
+    "url": "https://es.wikipedia.org/wiki/BigBuy",
+    "fonte_descoberta": "categoria:Comercio_electrónico",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Magento",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "E-commerce",
+    "url": "https://en.wikipedia.org/wiki/E-commerce",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Types of e-commerce",
+    "url": "https://en.wikipedia.org/wiki/Types_of_e-commerce",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "BigCommerce",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Abandonment rate",
+    "url": "https://en.wikipedia.org/wiki/Abandonment_rate",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Magento",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Amazon China",
+    "url": "https://en.wikipedia.org/wiki/Amazon_China",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Commercetools",
+    "url": "https://en.wikipedia.org/wiki/Commercetools",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "Etsy witches",
+    "url": "https://en.wikipedia.org/wiki/Etsy_witches",
+    "fonte_descoberta": "categoria:E-commerce",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  },
+  {
+    "idioma": "en",
+    "titulo": "CGTrader",
+    "url": "https://en.wikipedia.org/wiki/CGTrader",
+    "fonte_descoberta": "categoria:Online_marketplaces",
+    "pageviews_30d": 0,
+    "concorrentes_citados": "Shopify",
+    "score": 3,
+    "sugestao_secao": "A definir pelo revisor",
+    "paragrafo_sugerido": "",
+    "fato_usado": "",
+    "fonte_citacao": "",
+    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
+    "fatos_disponiveis": [
+      {
+        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
+        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
+        "fonte_publicacao": "Exame",
+        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
+      },
+      {
+        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
+        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "NuvemCommerce 2025"
+      },
+      {
+        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
+        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Sobre a Nuvemshop"
+      },
+      {
+        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
+        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
+        "fonte_publicacao": "Nuvemshop",
+        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
+      }
+    ],
+    "status_validacao": "PENDENTE"
+  }
+]
