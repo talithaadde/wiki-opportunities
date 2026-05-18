@@ -7,37 +7,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify, VTEX, WooCommerce, PrestaShop",
     "score": 8,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Citar web|url=<URL DA FONTE EXTERNA>|título=<TÍTULO DA MATÉRIA>|publicação=<NOME DO VEÍCULO>|data=<YYYY-MM-DD>|acessadoem=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Concorrentes no mercado brasileiro",
+    "paragrafo_sugerido": "No mercado brasileiro de e-commerce, a plataforma SaaS Nuvemshop também concorre na oferta de soluções para meios de pagamento e checkout, e segundo a Exame seus lojistas movimentaram R$ 6,5 bilhões em vendas no Brasil em 2025, alta de 35% em um ano.<ref name=\"nuvem_PagBrasil\">{{Citar web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|título=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publicação=Exame|data=2026-03-23|acessadoem=2026-05-18}}</ref>",
+    "fato_usado": "lojistas movimentaram R$ 6,5 bilhões em vendas no Brasil em 2025, alta de 35% em um ano",
+    "fonte_citacao": "https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/",
+    "template_ref": "{{Citar web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|título=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publicação=Exame|data=2026-03-23|acessadoem=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -48,37 +22,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify, WooCommerce, Magento, PrestaShop",
     "score": 8,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Plataformas competidoras en América Latina",
+    "paragrafo_sugerido": "En el mercado latinoamericano, una de las principales plataformas SaaS competidoras es Tiendanube (Nuvemshop en Brasil), fundada en Buenos Aires en 2011, que según Bloomberg Línea atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube.<ref name=\"nuvem_PrestaShop\">{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}</ref>",
+    "fato_usado": "atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -89,37 +37,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify, Magento, BigCommerce",
     "score": 7,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "2011: Founding of Latin American SaaS platforms",
+    "paragrafo_sugerido": "In 2011, Tiendanube (known as Nuvemshop in Brazil) was founded in Buenos Aires by Santiago Sosa, Alejandro Vázquez, José Abuchaem, Alejandro Alfonso and Martín Palombo, becoming one of Latin America's largest SaaS e-commerce platforms. According to Bloomberg Línea, the company serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube.<ref name=\"nuvem_Timeline_of_e_commer\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -130,37 +52,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify, WooCommerce",
     "score": 5,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Plataformas competidoras",
+    "paragrafo_sugerido": "Entre las plataformas SaaS de comercio electrónico que operan en América Latina destaca Tiendanube (Nuvemshop en Brasil), que según Bloomberg Línea atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube.<ref name=\"nuvem_3dcart\">{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}</ref>",
+    "fato_usado": "atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -171,37 +67,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "VTEX, Loja Integrada",
     "score": 4,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Citar web|url=<URL DA FONTE EXTERNA>|título=<TÍTULO DA MATÉRIA>|publicação=<NOME DO VEÍCULO>|data=<YYYY-MM-DD>|acessadoem=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Mercado de e-commerce brasileiro",
+    "paragrafo_sugerido": "Entre as plataformas relevantes do ecossistema de e-commerce brasileiro em que Alfredo Soares atua como investidor e mentor está a Nuvemshop, cujos lojistas movimentaram R$ 6,5 bilhões em vendas no Brasil em 2025, alta de 35% em um ano.<ref name=\"nuvem_Alfredo_Soares\">{{Citar web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|título=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publicação=Exame|data=2026-03-23|acessadoem=2026-05-18}}</ref>",
+    "fato_usado": "lojistas movimentaram R$ 6,5 bilhões em vendas no Brasil em 2025, alta de 35% em um ano",
+    "fonte_citacao": "https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/",
+    "template_ref": "{{Citar web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|título=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publicação=Exame|data=2026-03-23|acessadoem=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -212,37 +82,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "WooCommerce, Mercado Shops",
     "score": 4,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Otras plataformas argentinas de comercio electrónico",
+    "paragrafo_sugerido": "Otra plataforma de comercio electrónico fundada en Argentina es Tiendanube (Nuvemshop en Brasil), creada en Buenos Aires en 2011, que según Bloomberg Línea atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube.<ref name=\"nuvem_Mercado_Libre\">{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}</ref>",
+    "fato_usado": "atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -253,37 +97,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Magento",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cita web|url=<URL DE LA FUENTE EXTERNA>|título=<TÍTULO DEL ARTÍCULO>|publicación=<NOMBRE DEL MEDIO>|fecha=<YYYY-MM-DD>|fechaacceso=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Plataformas SaaS de comercio electrónico",
+    "paragrafo_sugerido": "En el segmento de plataformas SaaS de comercio electrónico, una de las principales referencias en América Latina es Tiendanube (Nuvemshop en Brasil), fundada en 2011, que según Bloomberg Línea atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube.<ref name=\"nuvem_BigBuy\">{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}</ref>",
+    "fato_usado": "atiende a unos 180.000 clientes activos con 1.500 empleados, con oficinas en Brasil, Argentina y México y operaciones en Colombia y Chile bajo el nombre de TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cita web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|título=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publicación=Bloomberg Línea|fecha=2025-11-19|fechaacceso=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -294,37 +112,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Latin American e-commerce platforms",
+    "paragrafo_sugerido": "In Latin America, Nuvemshop (Tiendanube in Spanish-speaking markets) is a major SaaS e-commerce platform founded in Buenos Aires in 2011. According to Exame, the company's merchants merchants moved R$ 6.5 billion (approximately US$ 1.1 billion) in sales in Brazil in 2025, up 35% year-over-year.<ref name=\"nuvem_E_commerce\">{{Cite web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|title=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publisher=Exame|date=2026-03-23|access-date=2026-05-18}}</ref>",
+    "fato_usado": "merchants moved R$ 6.5 billion (approximately US$ 1.1 billion) in sales in Brazil in 2025, up 35% year-over-year",
+    "fonte_citacao": "https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/",
+    "template_ref": "{{Cite web|url=https://exame.com/negocios/com-r-65-bilhoes-em-vendas-nuvemshop-aposta-em-ia-e-mira-novo-publico/|title=Com R$ 6,5 bilhões em vendas, Nuvemshop aposta em IA e mira novo público|publisher=Exame|date=2026-03-23|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -335,37 +127,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "BigCommerce",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "SaaS e-commerce platforms",
+    "paragrafo_sugerido": "Among SaaS e-commerce platforms targeting growth-stage businesses, Nuvemshop (Tiendanube) launched Nuvemshop Next in 2022, targeting growth-stage brands, which has 2,000 clients and accounts for 35% of the platform's total GMV.<ref name=\"nuvem_Types_of_e_commerce\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "launched Nuvemshop Next in 2022, targeting growth-stage brands, which has 2,000 clients and accounts for 35% of the platform's total GMV",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -376,37 +142,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Magento",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Cart abandonment in Latin America",
+    "paragrafo_sugerido": "In Latin American e-commerce, cart abandonment is a major concern for SaaS platforms such as Nuvemshop (Tiendanube). According to the NuvemCommerce 2026 report cited by Central do Varejo, according to the NuvemCommerce 2026 report, 72% of Brazilian merchants actively use AI in their operations.<ref name=\"nuvem_Abandonment_rate\">{{Cite web|url=https://centraldovarejo.com.br/nuvemcommerce-2026-revela-a-era-da-eficiencia-e-do-comercio-agentico/|title=NuvemCommerce 2026 revela era da eficiência e do comércio agêntico|publisher=Central do Varejo|date=2026-02-20|access-date=2026-05-18}}</ref>",
+    "fato_usado": "according to the NuvemCommerce 2026 report, 72% of Brazilian merchants actively use AI in their operations",
+    "fonte_citacao": "https://centraldovarejo.com.br/nuvemcommerce-2026-revela-a-era-da-eficiencia-e-do-comercio-agentico/",
+    "template_ref": "{{Cite web|url=https://centraldovarejo.com.br/nuvemcommerce-2026-revela-a-era-da-eficiencia-e-do-comercio-agentico/|title=NuvemCommerce 2026 revela era da eficiência e do comércio agêntico|publisher=Central do Varejo|date=2026-02-20|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -417,37 +157,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Regional e-commerce competitors",
+    "paragrafo_sugerido": "Among regional SaaS platforms competing in emerging markets, Nuvemshop (Tiendanube) is a notable Latin American example. According to Bloomberg Línea, it serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube.<ref name=\"nuvem_Amazon_China\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -458,37 +172,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "SaaS commerce platforms",
+    "paragrafo_sugerido": "Among SaaS commerce platforms serving small and medium businesses in emerging markets, Nuvemshop (Tiendanube) is a Latin American example. According to Bloomberg Línea, the company serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube.<ref name=\"nuvem_Commercetools\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -499,37 +187,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Alternative e-commerce platforms",
+    "paragrafo_sugerido": "Beyond marketplaces, sellers of niche and handmade goods in Latin America often use SaaS platforms such as Nuvemshop (Tiendanube), which according to Bloomberg Línea serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube.<ref name=\"nuvem_Etsy_witches\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   },
   {
@@ -540,37 +202,11 @@
     "pageviews_30d": 0,
     "concorrentes_citados": "Shopify",
     "score": 3,
-    "sugestao_secao": "A definir pelo revisor",
-    "paragrafo_sugerido": "",
-    "fato_usado": "",
-    "fonte_citacao": "",
-    "template_ref": "{{Cite web|url=<EXTERNAL SOURCE URL>|title=<ARTICLE TITLE>|publisher=<PUBLICATION NAME>|date=<YYYY-MM-DD>|access-date=2026-05-18}}",
-    "fatos_disponiveis": [
-      {
-        "fato": "Cresceu 75% em 2025, com mais de 180 mil lojas ativas na América Latina",
-        "fonte_url": "https://exame.com/negocios/nuvemshop-investe-r-100-milhoes-em-ia",
-        "fonte_publicacao": "Exame",
-        "fonte_titulo": "Nuvemshop investe R$ 100 milhões em IA"
-      },
-      {
-        "fato": "Movimentou R$ 15,7 bilhões em vendas no Brasil em 2024 segundo NuvemCommerce 2025",
-        "fonte_url": "https://www.nuvemshop.com.br/nuvemcommerce",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "NuvemCommerce 2025"
-      },
-      {
-        "fato": "Plataforma SaaS fundada em Buenos Aires em 2011, presente em Brasil, Argentina, México, Chile e Colômbia",
-        "fonte_url": "https://www.nuvemshop.com.br/sobre-nos",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Sobre a Nuvemshop"
-      },
-      {
-        "fato": "Em fevereiro de 2026, registrou crescimento de 33,7% em faturamento com ticket médio de R$ 262 segundo o Radar D2C",
-        "fonte_url": "https://www.nuvemshop.com.br/radar-ecommerce-d2c",
-        "fonte_publicacao": "Nuvemshop",
-        "fonte_titulo": "Radar do E-commerce D2C — Fevereiro 2026"
-      }
-    ],
+    "sugestao_secao": "Online marketplaces and SaaS storefronts",
+    "paragrafo_sugerido": "Beyond specialized marketplaces, digital goods creators in Latin America also use SaaS storefronts like Nuvemshop (Tiendanube), which according to Bloomberg Línea serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube.<ref name=\"nuvem_CGTrader\">{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}</ref>",
+    "fato_usado": "serves approximately 180,000 active clients with 1,500 employees, with offices in Brazil, Argentina and Mexico and operations in Colombia and Chile under the name TiendaNube",
+    "fonte_citacao": "https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/",
+    "template_ref": "{{Cite web|url=https://www.bloomberglinea.com.br/startups/nuvemshop-cresceu-com-foco-nos-pequenos-negocios-marcas-medias-entraram-na-mira/|title=Nuvemshop cresceu com foco nos pequenos negócios. Marcas médias entraram na mira|publisher=Bloomberg Línea|date=2025-11-19|access-date=2026-05-18}}",
     "status_validacao": "PENDENTE"
   }
 ]
